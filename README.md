@@ -1,12 +1,12 @@
 # Webpage
 
-> Front-end study project focused on building and experimenting with web interfaces.
+> Front-end study repository focused on **HTML, CSS and JavaScript**.
 
 ## 🎯 Purpose
 
-This repository contains web-development experiments created while studying **HTML, CSS and JavaScript**.
+This repository contains web-development experiments created while studying front-end fundamentals.
 
-It is part of my learning history and supports my broader development toward building interactive interfaces and practical digital tools.
+The goal is to practice writing code, structuring pages and experimenting with browser interfaces.
 
 ## 🛠️ Technologies
 
@@ -14,8 +14,12 @@ It is part of my learning history and supports my broader development toward bui
 - CSS3
 - JavaScript
 
-## 📚 Role in My Portfolio
+## 📚 Role in My GitHub
 
-This repository is a **study/experiment project**, not a flagship portfolio piece. More polished front-end work is presented in my [Web Portfolio](https://lvc4br.github.io/Web-Portfolio/).
+This is a **study/experiment repository**. It documents part of my programming progression rather than presenting itself as a finished product.
+
+For a more complete front-end project, see my **Web-Portfolio** repository.
+
+## 👤 Author
 
 **Luca Toniolo — Lvc4br**

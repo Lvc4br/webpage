@@ -1,25 +1,21 @@
-# Webpage
+# Webpage — Estudos de Front-end
 
-> Front-end study repository focused on **HTML, CSS and JavaScript**.
+Repositório de exercícios e experimentos curtos feitos durante o estudo dos fundamentos de desenvolvimento web.
 
-## 🎯 Purpose
+## Objetivo
 
-This repository contains web-development experiments created while studying front-end fundamentals.
+Praticar estruturação de páginas, estilização e interações básicas no navegador. O conteúdo é de aprendizagem e não representa uma aplicação finalizada.
 
-The goal is to practice writing code, structuring pages and experimenting with browser interfaces.
-
-## 🛠️ Technologies
+## Tecnologias
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 📚 Role in My GitHub
+## Relação com outros projetos
 
-This is a **study/experiment repository**. It documents part of my programming progression rather than presenting itself as a finished product.
+Para experimentos interativos mais específicos, consulte [MouseTarget](https://github.com/Lvc4br/MouseTarget). Para ver projetos selecionados e trabalhos apresentados de forma organizada, acesse o [LV_Portfolio](https://github.com/Lvc4br/LV_Portfolio) ou o [portfólio publicado](https://luca-toniolo.vercel.app/).
 
-For a more complete front-end project, see my **Web-Portfolio** repository.
+## Autor
 
-## 👤 Author
-
-**Luca Toniolo — Lvc4br**
+**Luca Toniolo — [@Lvc4br](https://github.com/Lvc4br)**
